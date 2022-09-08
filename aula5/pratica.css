@@ -6,11 +6,24 @@ body{
     border: 1px solid black;
 }
 
+h1{
+    justify-content: center;
+    height: 32px;
+    padding-top: 0px;
+    padding-left: 20px;
+}
+
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
 .card{
     width: 425px;
     height: 212px;
     border: 1px solid black;
-    margin: 10px 0 10px 11px;
+    margin: 22px 22px 22px 22px;
     padding: 10px;
     display: inline-block
 }
@@ -18,7 +31,8 @@ body{
 .card-titulo{
     font-size: medium;
     margin: 0 0 10px 0;
-    display:inline;
+    display: flex;
+    align-items: center;
 }
 
 .card-imagem{

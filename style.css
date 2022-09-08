@@ -1,14 +1,15 @@
 .primeiraLista{
-    color: green ;
+    color:darkgreen;
 }
 
 # título{
-    cor : rgb ( 216 , 191 , 216 );
+    cor :rgb(216,191,216);
 }
 
 .parágrafo{
-    tamanho da fonte: 17px;
-    font-family: monoespaçado;
-    altura da linha: 1;
-    borda: vermelho sólido de 15 px ;
-   
+    frnt size: 17px;
+    font-family: monospace;
+    line-height: 1;
+    border;15px solid red;
+
+    
